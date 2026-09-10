@@ -1,0 +1,14 @@
+{
+  "name": "genpark-shamir-secret-sharing-gf256-skill",
+  "version": "1.0.0",
+  "description": "Shamir (k, n) threshold secret sharing scheme with polynomial interpolation and cryptographic threshold reconstruction.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "shamir-secret-sharing",
+    "threshold-cryptography",
+    "lagrange-interpolation",
+    "key-management",
+    "cryptography"
+  ]
+}
